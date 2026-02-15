@@ -21,7 +21,8 @@
             // ※ Linux版のCLTを /opt/st/stm32cubeclt_1.20.0 に入れている前提です
             "linux": {
                 "serverpath": "/opt/st/stm32cubeclt_1.20.0/STLink-gdb-server/bin/ST-LINK_gdbserver",
-                "stm32cubeprogrammer": "/opt/st/stm32cubeclt_1.20.0/STM32CubeProgrammer/bin"
+                "stm32cubeprogrammer": "/opt/st/stm32cubeclt_1.20.0/STM32CubeProgrammer/bin",
+                "gdbPath": "/usr/bin/gdb-multiarch"
             }
         }
     ]
