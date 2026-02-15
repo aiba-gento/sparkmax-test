@@ -1,0 +1,6 @@
+build/
+
+# VS Code設定 (launch.json/tasks.jsonは共有するため例外にする)
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
